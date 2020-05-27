@@ -3,7 +3,7 @@
 
 a. Dimension reduction is done by using PCA(principal Component Anlaysis) technique.
 
-b. Acheived a f1_score of 0.85 
+b. Acheived a f1_score of 0.85 (f1_score is basically weighted average of precision and recall)
 
 c. To get maximum margin, Linear classifier was used.
 
